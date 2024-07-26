@@ -1,2 +1,1 @@
-# workshop_countdown
-workshop countdown
+CPE101 workshops
